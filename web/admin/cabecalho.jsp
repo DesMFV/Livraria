@@ -53,6 +53,13 @@
               <p>Editora</p>
             </a>
           </li>
+          <li>
+            <a href="./../admin/AdminWS?acao=list">
+              <i class="tim-icons icon-tag"></i>
+              <p>Admin</p>
+            </a>
+          </li>
+          
         </ul>
       </div>
     </div>
